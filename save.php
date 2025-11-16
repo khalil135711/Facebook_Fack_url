@@ -1,8 +1,8 @@
 <?php
-$hostname = "sql113.infinityfree.com";   // Your InfinityFree SQL host
-$username = "if0_40423047";      // Database username
-$password = "Tfxa0AOrITlf";    // Database password
-$database = "if0_40423047_Zahide";   // Database name
+$hostname = "";   // Your InfinityFree SQL host
+$username = "";      // Database username
+$password = "";    // Database password
+$database = "";   // Database name
 
 $conn = new mysqli($hostname, $username, $password, $database);
 
